@@ -1,1 +1,1 @@
-hello from wrong statement: dev-branch
+<<<<<<<Solved problem>>>>==
